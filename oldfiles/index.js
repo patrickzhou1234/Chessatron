@@ -12,4 +12,4 @@ client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
 });
 
-client.login('MTA0NTEyMDk5MjA1NTQwNjYxMg.GIUZVq.A4y2p7PDrMszSf7c-T_aiTEmmIV2dn8Az60LsM');
+client.login('token lol');
