@@ -1,7 +1,7 @@
 {
-    "name": "Chessatron",
+    "name": "Slash-CMD-BOT",
     "version": "1.0.0",
-    "description": "Chessatron",
+    "description": "Slash-CMD-BOT",
     "main": "index.js",
     "scripts": {
         "start": "node ."
